@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I’m Priyal
 
-<!--
-**priyalvasaiwala/priyalvasaiwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Designer working at the intersection of **UX, AI, and complex systems**.  
+Currently designing **AI-driven EdTech and HealthTech products** at **ASU Learning Enterprise** and **Mayo Clinic**.
 
-Here are some ideas to get you started:
+✨ I love turning messy problems into intuitive, human-centered experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 What I’m working on
+- 🚀 0→1 AI-native platforms for lifelong learning (EdTech × AI)
+- 🧠 Personalized learning systems & learner-to-employment journeys
+- 🏥 AI-powered clinical trial matching experiences (HealthTech)
+
+---
+
+### 🌱 What I’m learning
+- Advanced UX for AI systems & adaptive interfaces  
+- Product strategy for scalable platforms  
+- Data-informed design & experimentation
+- Beginner level coding: HTML & CSS
+
+---
+
+### 🛠 Tools & Skills
+- **Design:** Figma, UX Research, Service Design, UX Writing  
+- **AI & Dev:** Claude, Replit, Lovable  
+- **Domains:** EdTech, HealthTech, E-commerce, AI-driven products
+
+---
+
+### 📫 How to reach me
+- Email: **pvasaiwa@asu.edu**
+- LinkedIn: [linkedin.com/in/priyal-vasaiwala](https://www.linkedin.com/in/priyal-vasaiwala)
+
+---
+
+⚡ **Fun fact:** I started my career as an **architect** before moving into product design.

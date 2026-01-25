@@ -1,5 +1,7 @@
 ## Hi there 👋 I’m Priyal
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyalvasaiwala&show_icons=true&theme=default)
+
 Product Designer working at the intersection of **UX, AI, and complex systems**.  
 Currently designing **AI-driven EdTech and HealthTech products** at **ASU Learning Enterprise** and **Mayo Clinic**.
 
